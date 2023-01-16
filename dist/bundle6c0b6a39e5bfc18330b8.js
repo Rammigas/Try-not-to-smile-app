@@ -4706,8 +4706,9 @@ var smileImg = document.getElementById('smileImg');
 smileImg.src = _assets_smile_svg__WEBPACK_IMPORTED_MODULE_2__;
 var jokeBtn = document.getElementById('jokeBtn');
 jokeBtn.addEventListener('click', _generateJoke__WEBPACK_IMPORTED_MODULE_0__["default"]);
+(0,_generateJoke__WEBPACK_IMPORTED_MODULE_0__["default"])();
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle8f2f53c890df6f32d7b4.js.map
+//# sourceMappingURL=bundle6c0b6a39e5bfc18330b8.js.map
